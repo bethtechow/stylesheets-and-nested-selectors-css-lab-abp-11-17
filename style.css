@@ -16,6 +16,11 @@ nav ul {
   padding: 0;
   margin: 40px 0 0 0;
 }
+nav ul li {
+  display: inline-block;
+  margin-right: 10px
+  
+}
 header h3 {
   float: left;
   font-size: 30px;
